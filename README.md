@@ -1,5 +1,6 @@
 # BPDUN
- The codes for "Bidirectional progressive deep unfolding network for pansharpening".
+ The codes for "BPDUN: Bidirectional Progressive Deep Unfolding Network for Pansharpening".
+ 
 The paper has been accepted by TGRS.
 
 <pre>
